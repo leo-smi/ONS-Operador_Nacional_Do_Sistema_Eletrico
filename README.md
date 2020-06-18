@@ -1,4 +1,4 @@
-# ONS (Operador Nacional Do Sistema Eletrico)
+# ONS (Operador Nacional Do Sistema Elétrico)
 Séries de geração por estado, fonte e tempo em horas.
 
 #### **Colunas:**
